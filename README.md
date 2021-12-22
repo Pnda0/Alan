@@ -1,4 +1,4 @@
-# Olá, me chamo Alan :D
+# Olá, me chamo Alan 
 
 
 <div align="center">
