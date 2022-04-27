@@ -13,8 +13,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">        
-  <img align="right" alt="Gunter" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/070ad2d658ec389668562657c9327e0f/9e98d7af3509a9d2-b6/s1280x1920/21a07fbde752876659bc02578545e746b632ad40.jpg">
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">        
+  <img align="right" alt="Guts" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/070ad2d658ec389668562657c9327e0f/9e98d7af3509a9d2-b6/s1280x1920/21a07fbde752876659bc02578545e746b632ad40.jpg">
 </div>
   
   ##
